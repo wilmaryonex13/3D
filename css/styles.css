@@ -240,7 +240,7 @@
   }
 
   .about {
-    background-image: url("../images/Company_Profile_Background_3.png");
+    background-image: url("/3D/images/Company_Profile_Background_3.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
